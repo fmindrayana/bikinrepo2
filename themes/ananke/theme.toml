@@ -9,6 +9,7 @@ homepage = "https://github.com/budparr/gohugo-theme-ananke"
 tags = ["website", "starter", "responsive", "Disqus", "blog", "Tachyons", "Multilingual"]
 features = ["posts", "shortcodes", "related content", "comments"]
 min_version = "0.30.2"
+<meta name="google-site-verification" content="YNsMpLHkiDdyWZbvnHTZXbFrEViIDSv_z1RoOjmUY30" />
 
 [author]
   name = "Bud Parr"
